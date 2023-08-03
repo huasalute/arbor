@@ -1,7 +1,7 @@
 Arbor.js Changes
 ----------------
 
-Version 0.92 | 19 jun 2013
+Version 0.92 | 19 jun 2011
 --------------------------
 
   * Creating nodes with an initial x/y or fixed position now works as advertised
